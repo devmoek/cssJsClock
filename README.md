@@ -1,1 +1,1 @@
-CSS + JS clock
+One of the #javascript30 challenge project. CSS + JS clock
